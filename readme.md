@@ -1,3 +1,4 @@
+# CODE:
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -86,4 +87,5 @@
 </body>
 </html>
 ```
+# output:
 ![image](https://github.com/Hariveeraprasad-2006/Workshop-in-HTML-and-CSS-6D1-1-23-24/assets/145049988/52a195bf-1478-4f33-ac5f-797b217acd94)
